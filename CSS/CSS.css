@@ -1,0 +1,46 @@
+/***
+Autor: Adrian Emiliano Rodriguez Santiesteban
+Fecha: 20/11/2024
+Lenguaje html
+Fuente: local
+Examen
+***/
+.Cuerpo00 {
+
+    background-color: red;
+    color: black;
+}
+
+.Cuerpo01 {
+
+    background-color: blue;
+    color: blueviolet;
+
+}
+
+.Cuerpo02 {
+
+    background-color: yellow;               /*** cada uno se relaciona con el cuerpo que va cabiar de color de cada fondo y letra***/
+    color: aqua;
+
+}
+
+.Cuerpo03 {
+
+    background-color: purple;
+    color: azure;
+
+}
+
+.Cuerpo04 {
+
+    background-color: black;
+    color: brown;
+
+}
+
+
+/*** Adrian Emiliano Rodriguez Santiesteban ***/
+/***Universidad Autonoma de Durango ***/
+/***Diseño de la comunicacion grafica ***/
+/***Diseño web ***/
